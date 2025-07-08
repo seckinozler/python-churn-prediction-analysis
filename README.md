@@ -37,7 +37,6 @@ This project aims to predict customer churn in a telecommunications company by a
 - `churn_analysis.ipynb`: Jupyter Notebook containing the analysis and modeling steps
 - `churn_analysis.py`: Python script version of the notebook for those who prefer running the analysis as a standard Python script in their local environment.
 - `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`: Dataset file (or data access details)
-- `reports/`: Folder with project reports and visual outputs
 - `README.md`: Project description and documentation
 
 ---
