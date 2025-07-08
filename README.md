@@ -86,22 +86,6 @@ Based on the churn analysis and risk segmentation, the following actions are rec
 
 ---
 
-## 🚀 How to Use
-
-Clone the repository and open the notebook or run the script:
-
-```bash
-git clone https://github.com/seckinozler/python-churn-prediction-analysis.git
-cd python-churn-prediction-analysis
-
-# To run the Jupyter Notebook
-jupyter notebook churn_analysis.ipynb
-
-# To run the Python script
-python churn_analysis.py
-```
-------
-
 ## 📬 Contact
 
 - **GitHub:** [github.com/seckinozler](https://github.com/seckinozler)  
